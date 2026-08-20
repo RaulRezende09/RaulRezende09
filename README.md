@@ -2,7 +2,7 @@
 
 # Raul Rezende Iemini Aguiar
 
-**Desenvolvedor Full-Stack | Back-end & APIs**
+**Desenvolvedor Full-Stack**
 
 </div>
 
@@ -10,10 +10,9 @@
 
 ### 👋 Sobre mim
 
-Estudante do último período de **Análise e Desenvolvimento de Sistemas (FIAP)**, construindo APIs e sistemas full-stack — de aplicações desktop com Python a serviços web com FastAPI e .NET. Gosto de resolver problemas reais com soluções simples e bem estruturadas, e estou sempre aprendendo algo novo no processo.
+Estudante do último período de **Análise e Desenvolvimento de Sistemas (FIAP)**, com experiência prática em desenvolvimento Full-Stack: APIs REST em C#/.NET e Python, aplicações desktop integradas a banco de dados Oracle, e um sistema completo próprio (FastAPI + PostgreSQL + Vue.js) com autenticação JWT e arquitetura multi-tenant. Gosto de resolver problemas reais com soluções simples e bem estruturadas, e estou sempre aprendendo algo novo no processo.
 
-- 🔭 Focado em **back-end**, APIs REST e modelagem de dados
-- 🌱 Aprofundando conhecimento em **DevOps** e **Cybersecurity**
+- 🎓 Formatura prevista para Dez/2026
 - 💬 Fale comigo sobre C#/.NET, Python, FastAPI ou arquitetura de APIs
 - 📍 São Paulo, Brasil
 
@@ -25,28 +24,28 @@ Estudante do último período de **Análise e Desenvolvimento de Sistemas (FIAP)
 <tr>
 <td width="50%" valign="top">
 
-**[Gestão de Projetos Arquitetônicos](https://github.com/RaulRezende09/Gestao-Arquitetos)**
+**[Gestão de Projetos Arquitetônicos](https://github.com/RaulRezende09/Gestao-Arquitetos)** · Projeto pessoal
 Sistema de gestão de projetos estilo Kanban para escritórios de arquitetura. API em FastAPI + PostgreSQL, autenticação JWT com refresh tokens, isolamento multi-tenant e frontend em Vue 3 — tudo containerizado com Docker.
 
-`Python` `FastAPI` `PostgreSQL` `Docker` `JWT`
+`Python` `FastAPI` `PostgreSQL` `Docker` `JWT` `Vue 3`
 
 </td>
-<td width="50%" valign="top">
-
-**[Equilibra](https://github.com/RaulRezende09/Equilibra-Python-Desktop)**
-Aplicação desktop em PyQt5 para gestão de tarefas, com CRUD completo, persistência em banco Oracle e integração com API externa.
-
-`Python` `PyQt5` `Oracle Database`
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **[Jornada Dev — TOTVS Paulista](https://github.com/RaulRezende09/jornadadev)**
 Exercícios e projetos práticos do programa START (Tecnologia e Dev), organizados por módulo.
 
 `Programação` `Lógica` `Boas Práticas`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Equilibra](https://github.com/RaulRezende09/Equilibra-Python-Desktop)**
+Aplicação desktop em PyQt5 para gestão de tarefas, com CRUD completo, persistência em banco Oracle e integração com API externa.
+
+`Python` `PyQt5` `Oracle Database`
 
 </td>
 <td width="50%" valign="top">
@@ -73,13 +72,11 @@ Modelagem de banco de dados relacional para análise de dados em saúde, com con
 
 <br>
 
-### 📈 Atividade
+### 🌱 Atualmente
 
-<p align="left">
-  <img src="https://img.shields.io/github/followers/RaulRezende09?style=for-the-badge&logo=github&color=16324f&labelColor=1c1c1c"/>
-</p>
-
-Os repositórios fixados na parte de baixo do meu perfil já mostram estrelas, linguagem principal e atualizações em tempo real — direto do GitHub, sem depender de serviços externos.
+- 🚧 Evoluindo o **[Gestão de Projetos Arquitetônicos](https://github.com/RaulRezende09/Gestao-Arquitetos)**
+- 📚 Aprofundando conhecimento em **DevOps**, **Inteligencia Artificial e Computacional** e **Cybersecurity** (FIAP Nano Courses)
+- 🎯 Buscando novas oportunidades para aplicar e evoluir esses conhecimentos em um time de desenvolvimento
 
 <br>
 

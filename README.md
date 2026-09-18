@@ -75,6 +75,7 @@ Modelagem de banco de dados relacional para análise de dados em saúde, com con
 ### 🌱 Atualmente
 
 - 🚧 Evoluindo o **[Gestão de Projetos Arquitetônicos](https://github.com/RaulRezende09/Gestao-Arquitetos)**
+- 🛠️ Desenvolvendo o **[Ground Station Dashboard](https://github.com/RaulRezende09/ground-station-dashboard)**
 - 📚 Aprofundando conhecimento em **DevOps**, **Inteligencia Artificial e Computacional** e **Cybersecurity** (FIAP Nano Courses)
 - 🎯 Buscando novas oportunidades para aplicar e evoluir esses conhecimentos em um time de desenvolvimento
 

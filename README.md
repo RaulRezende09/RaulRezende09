@@ -32,10 +32,10 @@ Sistema de gestão de projetos estilo Kanban para escritórios de arquitetura. A
 </td>
 <td width="50%" valign="top">
 
-**[Jornada Dev — TOTVS Paulista](https://github.com/RaulRezende09/jornadadev)**
-Exercícios e projetos práticos do programa START (Tecnologia e Dev), organizados por módulo.
+**[Ground Station Dashboard](https://github.com/RaulRezende09/ground-station-dashboard)**
+Painel de estação terrestre para rastreamento de satélites, previsão de passagens e efeito Doppler, desenvolvido com base no Orekit e em dados espaciais abertos.
 
-`Programação` `Lógica` `Boas Práticas`
+`Java` `TypeScript` `Docker` `Python` `Lógica`
 
 </td>
 </tr>

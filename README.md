@@ -13,7 +13,7 @@
 Estudante do último período de **Análise e Desenvolvimento de Sistemas (FIAP)**, com experiência prática em desenvolvimento Full-Stack: APIs REST em C#/.NET e Python, aplicações desktop integradas a banco de dados Oracle, e um sistema completo próprio (FastAPI + PostgreSQL + Vue.js) com autenticação JWT e arquitetura multi-tenant. Gosto de resolver problemas reais com soluções simples e bem estruturadas, e estou sempre aprendendo algo novo no processo.
 
 - 🎓 Formatura prevista para Dez/2026
-- 💬 Fale comigo sobre C#/.NET, Python, FastAPI ou arquitetura de APIs
+- 💬 Fale comigo sobre C#/.NET, Java, Python, FastAPI ou arquitetura de APIs
 - 📍 São Paulo, Brasil
 
 <br>
